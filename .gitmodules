@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/andrew-dsa/andrew-dsa.github.io.wiki
