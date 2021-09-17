@@ -1,23 +1,23 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://simonwo.github.io/tech-docs-wiki
+host: https://andrew-dsa.github.io/tech-docs-wiki
 
 # Header-related options
 show_govuk_logo: false
-service_name: Tech Docs Wiki
-service_link: https://www.larry-the-cat.service.gov.uk
+service_name: DSA Hub
+service_link: https://www.gov.uk/government/groups/data-standards-authority
 phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  About: https://www.larry-the-cat.service.gov.uk
-  Get Started: https://www.larry-the-cat.service.gov.uk/get-started
+  About: https://www.gov.uk/government/groups/data-standards-authority
+  Get Started: https://www.gov.uk/government/groups/data-standards-authority
   Documentation: /
-  Support: https://www.larry-the-cat.service.gov.uk/support
+  Support: https://www.gov.uk/government/groups/data-standards-authority
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
 
-# Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
+# Tracking ID from Google Analytics (for example UA-XXXX-Y)
 ga_tracking_id:
 
 # Enable multipage navigation in the sidebar
@@ -31,8 +31,8 @@ collapsible_nav: false
 # headings.
 max_toc_heading_level: 6
 
-# Prevent robots from indexing (e.g. whilst in development)
+# Prevent robots from indexing (for example whilst in development)
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: simonwo/tech-docs-wiki
+github_repo: andrew-dsa/tech-docs-wiki
